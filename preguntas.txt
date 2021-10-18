@@ -1,0 +1,11 @@
+1,Matemáticas,1*1,1,2,3,4,1
+2,Lectura,Texto de la pregunta,R1,R2,R3,R4,RC
+3,Ciencias,Texto de la pregunta,R1,R2,R3,R4,RC
+4,Matemáticas,Texto de la pregunta,R1,R2,R3,R4,RC
+5,Lectura,Texto de la pregunta,R1,R2,R3,R4,RC
+6,Ciencias,Texto de la pregunta,R1,R2,R3,R4,RC
+7,Matemáticas,Texto de la pregunta,R1,R2,R3,R4,RC
+8,Lectura,Texto de la pregunta,R1,R2,R3,R4,RC
+9,Ciencias,Texto de la pregunta,R1,R2,R3,R4,RC
+10,Matemáticas,Texto de la pregunta,R1,R2,R3,R4,RC
+11,Matemáticas,5*5,25,20,50,10,25
